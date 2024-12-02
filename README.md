@@ -1,2 +1,2 @@
 # Whack-a-Food
- This is excerise 5
+GameUp Africa Bootcamp - Maliyo Academy - Solution of Exercise 5
